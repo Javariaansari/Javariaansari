@@ -40,22 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=javariaansari&theme=rose_pine&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javariaansari&show_icons=true&theme=rose_pine&hide_border=false&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javariaansari&layout=compact&theme=rose_pine&hide_border=false" />
-</p>
-
----
-
 ### 🌐 Let's Connect!
 
 <p align="center">
